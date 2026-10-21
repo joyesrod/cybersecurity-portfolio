@@ -33,7 +33,10 @@
 ---
 
 ## Certifications & Education
-* **Google Cybersecurity Certificate** — Coursera *(In Progress)*
+* **Google Cybersecurity Certificate** — Completed
+* **High School Diploma** — Heritage Academy | Mesa, AZ (August 2014 to May 2017)
+
+---
 
 ## Contact
 * **LinkedIn:** [linkedin.com/in/joyesrod](https://www.linkedin.com/in/joyesrod/)
