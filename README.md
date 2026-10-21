@@ -1,4 +1,4 @@
-# Jonathan Rodriguez — Cybersecurity Portfolio
+# Jonathan Rodriguez — Cybersecurity Technical Skills Portfolio
 
 ## Professional Statement
 > I am an analytical and collaborative cybersecurity professional specializing in vulnerability management and regulatory compliance. Dedicated to protecting personal privacy and upholding high ethical standards, I work proactively to uncover security gaps and safeguard data integrity. I apply these strengths to help organizations mitigate risks, threats, and vulnerabilities before they disrupt business operations.
